@@ -22,7 +22,7 @@
 ## 4. Listening
 - Use reaffirming non-verbals
 - Pay attention to facial expressions and body language.
-- Be intentional about listening and listen on many level.
+- Be intentional about listening and listen on many levels.
 - Listen with your heart with empathy.
    
 # Communication for Common Situations
@@ -41,14 +41,14 @@
 - Plan thoughtful questions
 
 ## Email
-- Action request was first or second sentence
-- Action was clear and easy to take
-- Details limited to most relevant
-- Tone creates intended impact
-- Tailored to reader knowledge
-- Ask is email is best channel choice
-- Timing of message good for recipient
-- Error free
+- Action request should be first or second sentence
+- Action should be clear and easy to take
+- Details should be limited to most relevant
+- Tone should create intended impact
+- Tailor to reader knowledge
+- Ask yourself if email is best channel choice
+- Make sure timing of message is good for recipient
+- Proofread your email to ensure it is error free
 
 ## Explanation
 - Identify big picture versus step by step people
@@ -56,37 +56,37 @@
 - Break the list into buckets
 - Share and receive feedback
 - Provide support materials
-- Share the why to get buy in.
+- Share the why to get buy in
 
 ## Advise
 - Be respectful and humble
 
 # Communication for Challenging Situations
 ## Pitch new ideas
-- Think about the people whose approval you need.
-- Consider the decision-making style (thinker/feeler)
+- Think about the people whose approval you need
+- Consider their decision-making style (thinker/feeler)
 - What -> Why -> How
 - Timing matters when you influence
-- It can be a campaign and not a one time pitch
+- It will most likely be a campaign and not a one time pitch
 - Ask questions
 - Talk less
 - Listen deeply
   
 ## Making an ask
-- Be direct.
-- Create urgency.
-- Make the steps easy.
+- Be direct
+- Create urgency
+- Make the steps easy
  
 ## When you're caught off guard
-- Buy time.
-- Calm yourself.
+- Buy time
+- Calm yourself
 - Use a response formula: what I know + what I don't know + how I'll find out
    
 ## Criticism at work
-- Check your own listening bias. 
-- Assume positive intent.
-- Say thank you for the feedback.
-- Take time to ponder criticism.
+- Check your own listening bias
+- Assume positive intent
+- Say thank you for the feedback
+- Take time to ponder criticism
 - Demonstrate empathy
 - Ask questions
 - Don't be defensive or accusatory
