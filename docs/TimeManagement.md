@@ -2,7 +2,7 @@ Get ready to free up 10 hours per week using these time management techniques
 
 2022: Working smarter, not harder!!
 
-#Time Management
+# Time Management
 
 ## 3 Principles of Time Management
 ### Principle 1: Organize your SPACE using defined gathering points
@@ -49,7 +49,7 @@ Get ready to free up 10 hours per week using these time management techniques
 - If something is too big for your inbox, make a note and put it in approved gathering point
 - Schedule time to gather other places in your home
 
-## Understnading processing: what, when, where
+## Understanding processing: what, when, where
 - Instead of processing randomly, you'll now have a system!
 - Pick up **ONE** item
 - Q1: What is the next step? Make a clear decision or you'll get STUCK. 
@@ -72,7 +72,7 @@ Get ready to free up 10 hours per week using these time management techniques
     - Have old folder 
     - Automatic offsite backup
 - Processing your first inbox
-    - Setup gmail calendar for task reminders
+    - Setup gmail calendar for **Task Reminders**
 - Setting your processing schedule
     - Bring gathering points to zero once/week
     - Schedule recurring time
