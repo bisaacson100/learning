@@ -17,6 +17,6 @@
 | No.  | Course |
 | ---- | ------ |
 | 1    | [Test Driven Development in C#](docs/TestDrivenDevelopmentCSharp.md)|
-| 2    | [Git]()|
-| 3    | [Angular]()|
+| 2    | [Git](docs/Git.md)|
+| 3    | [Angular](docs/Angular.md)|
 
