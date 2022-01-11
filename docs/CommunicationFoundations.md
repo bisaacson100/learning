@@ -107,4 +107,4 @@
 - Prepare for details
 
 
-> Practice effeective communication every day.
+> Practice effective communication every day.

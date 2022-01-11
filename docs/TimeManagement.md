@@ -39,11 +39,11 @@ Get ready to free up 10 hours per week using these time management techniques
 ## Equipping Yourself for Action
 - Ensure you're in your workspace
 - Budget the time
-- Get the proper reources
+- Get the proper resources
 
 ## Gathering to the Inbox (Your office)
 - Always put unprocessed items in the inbox
-- For this process, use a temporary one-week inbo
+- For this process, use a temporary one-week inbox
 - Cultivate the habit of always putting unprocessed items in your inbox
 - Everything has a home and no visitors allowed.
 - If something is too big for your inbox, make a note and put it in approved gathering point
